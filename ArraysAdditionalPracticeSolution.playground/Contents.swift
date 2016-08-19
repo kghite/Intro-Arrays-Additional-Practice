@@ -100,7 +100,7 @@ print(fibonacci)
  
  Sometimes we need to search arrays for certain values, perhaps the largest or smallest number or the longest or shortest string.
  
- - callout(Challenge): Search through the array below using your knowledge of for loops, the subscript operator, and conditionals to find and print the index of the smallest integer in the array.
+ - callout(Challenge): Search through the array below using your knowledge of for loops, the subscript operator, and conditionals to find and print the smallest integer in the array.
  */
 
 let arrayOfInts: [Int] = [2, 6, 14, 35, 1, 3, 2]
